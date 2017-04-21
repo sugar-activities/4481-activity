@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.1"
+   width="55"
+   height="55"
+   id="svg2">
+  <defs
+     id="defs4" />
+  <g
+     transform="translate(0,-997.36218)"
+     id="layer1">
+    <path
+       d="m 58.588846,37.448601 a 12.374369,12.121831 0 1 1 -24.748737,0 12.374369,12.121831 0 1 1 24.748737,0 z"
+       transform="matrix(0.98994537,0,0,1.0105692,-5.7068601,996.76773)"
+       id="path5102"
+       style="fill:#00ff00;fill-opacity:1;stroke:#ffffff;stroke-width:2.99938774;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    <path
+       d="m 58.588846,37.448601 a 12.374369,12.121831 0 1 1 -24.748737,0 12.374369,12.121831 0 1 1 24.748737,0 z"
+       transform="matrix(0.98994537,0,0,1.0105692,-30.290859,996.76773)"
+       id="path5102-2"
+       style="fill:#0000ff;fill-opacity:1;stroke:#ffffff;stroke-width:2.99938774;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    <path
+       d="m 58.588846,37.448601 a 12.374369,12.121831 0 1 1 -24.748737,0 12.374369,12.121831 0 1 1 24.748737,0 z"
+       transform="matrix(0.98994537,0,0,1.0105692,-18.049859,975.52678)"
+       id="path5102-1"
+       style="fill:#ff0000;fill-opacity:1;stroke:#ffffff;stroke-width:2.99938774;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    <path
+       d="m 27.635925,30.81817 c -0.05756,-0.111317 -0.217556,-0.390447 -0.35555,-0.620287 -0.137995,-0.229841 -0.245704,-0.423088 -0.239354,-0.429438 0.0063,-0.0064 0.331726,-0.0077 0.723057,-0.003 l 0.711511,0.0085 -0.218521,0.363024 c -0.120187,0.199663 -0.278462,0.480153 -0.351723,0.623311 -0.07326,0.143158 -0.140304,0.260298 -0.148985,0.260313 -0.0087,1.4e-5 -0.06288,-0.09105 -0.120435,-0.20237 l 0,0 z"
+       transform="translate(0,997.36218)"
+       id="path5135"
+       style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.0947018;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+  </g>
+</svg>

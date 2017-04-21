@@ -1,0 +1,48 @@
+9
+
+* Preserve 'zoom' and 'delay' parameters
+* Internationalization support
+
+8
+
+* Fix zooming in live mode, works only for xo cameras
+
+7
+
+* Preview mode scales images correctly
+* Zoom properly in live mode for non-XO screen sizes
+* Fix save_to_journal icon
+
+6
+
+* Journal entry title is not filename but actual title from metadata
+
+5
+
+* Cleanup _LOTS_ of redundant vestigial code
+
+4
+
+* Fix toolbars to align properly
+* Save activity metadata as a xml/dom
+* Save images to instance folder instead of journal
+* Use gst probe instead of photobin
+* Try pipelining without a tee (fail)
+* Gst pipeline enhancements
+* Fix unreliable gst xvimagesink rendering
+
+3
+
+* Cleanup _LOTS_ of code
+* Gst pipelines fixes and enhancements
+* Replace gst.imagefreeze with gst.freeze to be backwards compatible
+
+2
+
+* Next and Previous buttons in preview mode
+* Filter out journal objects with XoScope tag fix
+* Basic level switching between modes now works
+
+1
+
+* Initial version

@@ -1,0 +1,9 @@
+[Activity]
+name = XoScope
+activity_version = 9
+bundle_id = org.sugarlabs.XoScope
+exec = sugar-activity activity.XoScopeActivity
+icon = activity-xoscope
+license = GPLv3
+mime_types = image/png;image/jpeg
+show_launcher = no
